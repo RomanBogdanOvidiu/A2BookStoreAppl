@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<books xmlns:ns2="src.main.java.com.book.model">
+    <book>
+        <title>SCJP</title>
+        <author>Kathy Sierra</author>
+        <genre>Drama</genre>
+        <quantity>1</quantity>
+        <price>30.0</price>
+    </book>
+    <book>
+        <title>The Da Vinci Code</title>
+        <author>Dan Brown</author>
+        <genre>Thriller</genre>
+        <quantity>4</quantity>
+        <price>30.0</price>
+    </book>
+    <book>
+        <title>The Great Gatsby</title>
+        <author>Scott Fitzgerald</author>
+        <genre>Historical Fiction/Romance</genre>
+        <quantity>4</quantity>
+        <price>55.0</price>
+    </book>
+</books>
